@@ -1,20 +1,20 @@
-{'family':[
+{"family":[
   {
     "id": 1,
-    "name":'Olegario',
-    "firstName":'Ballester',
-    "year": '1960'
+    "name":"Olegario",
+    "firstName":"Ballester",
+    "year": 1960
   },
   {
     "id": 2,
-    "name":'Jody',
-    "firstName":'Hansen',
-    "year": '1963'
+    "name":"Jody",
+    "firstName":"Hansen",
+    "year": 1963
   },
   {
     "id": 3,
-    "name":'Julia',
-    "firstName":'Ballester',
-    "year": '1999'
+    "name":"Julia",
+    "firstName":"Ballester",
+    "year": 1999
   }
 ]}
