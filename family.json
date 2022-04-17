@@ -1,8 +1,6 @@
-[
+"family":[
 {
- "id":1,
- "name":Olegario,
- "firstName":Ballester,
- "year":1960
+  "nombreColor":"rojo",
+  "valorHexadec":"#f00"
 }
 ]
